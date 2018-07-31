@@ -1,0 +1,7 @@
+C:\Users\leiah\source\repos\FightingGame\FightingGame\bin\Debug\FightingGame.exe.config
+C:\Users\leiah\source\repos\FightingGame\FightingGame\bin\Debug\FightingGame.exe
+C:\Users\leiah\source\repos\FightingGame\FightingGame\bin\Debug\FightingGame.pdb
+C:\Users\leiah\source\repos\FightingGame\FightingGame\obj\Debug\FightingGame.csprojResolveAssemblyReference.cache
+C:\Users\leiah\source\repos\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\leiah\source\repos\FightingGame\FightingGame\obj\Debug\FightingGame.exe
+C:\Users\leiah\source\repos\FightingGame\FightingGame\obj\Debug\FightingGame.pdb
